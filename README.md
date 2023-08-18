@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MucahitCrn
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops path and tools
+- 🌱 I have intermadiate knowledge of AWS
+- 🌱 I’m always learning and applying Devops path and tools
 - 💞️ I’m looking to collaborate on learning and improving
 - 📫 How to reach me ...if u wnat, u can send mail to me -->> mucahitceren@gmail.com
 
